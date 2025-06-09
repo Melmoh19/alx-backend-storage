@@ -1,2 +1,2 @@
 //insert data
-db.school.insert({ name: "ALX" });
+db.school.insert({ "name": "ALX" });

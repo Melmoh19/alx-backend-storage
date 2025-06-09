@@ -1,2 +1,2 @@
-//delete all docs
-db.school.deleteMany( { name: "ALX School" } )
+// Write a script that deletes all documents with name="Holberton school" in the collection school:
+db.school.deleteMany({name: "ALX school"})
